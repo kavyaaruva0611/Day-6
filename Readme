@@ -1,0 +1,22 @@
+Task: Creating passwords of different variation and evaluating its strength.
+Tools: passwordmeter and Have I Been Pwned tools.
+
+Procedure:
+Step-1: Opened Chrome and search for "https://passwordmeter.com/".
+Step-2: Checked for the password Complexity by providing the passwords.
+Step-3: Searched for website "https://haveibeenpwned.com/Passwords" and checked whether the password has been breached previously.
+Step-4: Analysed the strength of passwords.
+
+Sample passwords and its strength rate are mentioned below:
+1) Kavya@12345 - Strength shows 100% while this password was 8,076 times before in data breaches.
+2) y-y/EU62    - Score is 87% and no pwnage found.
+3) Qwerty@123  - Score shows 87% but has been seen 174,816 times before in data breaches.
+4) KAR45A@06   - Score is 75% and no pwnage found.
+5) MRbeen#0602 - Complexity is Very Strong and score shows 100% with no pwnage detected.
+
+Observation:
+- Password containing combination of Uppercase, Lowercase letters, Number and Symbol is very strong as the attackers cannot easily find the password with combinations.
+- Giving Names as the password is easy to crack password as it can be guessed.
+- Repeating same characters can be less complex and can be cracked.
+- Common usage patterns can be easily detected and can lead to Credential Stuffing, Data Breaches.
+
