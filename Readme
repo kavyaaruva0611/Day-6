@@ -20,3 +20,8 @@ Observation:
 - Repeating same characters can be less complex and can be cracked.
 - Common usage patterns can be easily detected and can lead to Credential Stuffing, Data Breaches.
 
+Precautions:
+- Use the combination of characters to make password strong and check for the password strength to make sure it is not easily cracked through any of the dictionary attack.
+- Avoid usage of same password for all application as it puts accounts at risk if any of the one application is breached.
+- Using auto generated is an alternate method to make it secure but the password stored in google account can be risky as it can be hacked.
+- Be aware if any of the application you have been through is breached and take necessary action to secure other data.
